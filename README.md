@@ -25,3 +25,5 @@
 	テンプレートを読み込ませて当て込む
 
 * slack api で遊ぶ
+
+* jetty を利用したproxy server 構築
