@@ -23,3 +23,5 @@
 
 * markdown から excel 生成
 	テンプレートを読み込ませて当て込む
+
+* slack api で遊ぶ
