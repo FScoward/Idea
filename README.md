@@ -27,3 +27,5 @@
 * slack api で遊ぶ
 
 * jetty を利用したproxy server 構築
+
+* Desktop notification
