@@ -30,3 +30,5 @@
 * jetty を利用したproxy server 構築
 
 * Desktop notification
+
+* 放送日、時間の放送時間帯のハッシュタグを集計。グラフ化。
